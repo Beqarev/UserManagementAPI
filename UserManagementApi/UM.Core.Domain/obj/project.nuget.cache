@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "F+gdmkrKvuIfl5o+h4WFDzEORvYcPW4iwjKZtKe49nrAomBnBITF13CdHg0Zv3TSlaeWOmnLvHNYS7teRXTFDA==",
+  "success": true,
+  "projectFilePath": "/Users/beqa/Desktop/Projects/UserManagementApi/UM.Core.Domain/UM.Core.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/beqa/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/Users/beqa/.nuget/packages/microsoft.extensions.configuration.binder/8.0.0/microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "/Users/beqa/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/beqa/.nuget/packages/microsoft.extensions.dependencymodel/8.0.0/microsoft.extensions.dependencymodel.8.0.0.nupkg.sha512",
+    "/Users/beqa/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/beqa/.nuget/packages/serilog/3.1.1/serilog.3.1.1.nupkg.sha512",
+    "/Users/beqa/.nuget/packages/serilog.settings.configuration/8.0.1-dev-00583/serilog.settings.configuration.8.0.1-dev-00583.nupkg.sha512",
+    "/Users/beqa/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/Users/beqa/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

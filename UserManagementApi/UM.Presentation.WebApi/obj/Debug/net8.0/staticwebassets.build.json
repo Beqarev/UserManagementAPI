@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Hyjg03nnv3dMFNEdgeR8rHPZ374dRxg00ih2bBYLvHk=",
+  "Source": "UM.Presentation.WebApi",
+  "BasePath": "_content/UM.Presentation.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

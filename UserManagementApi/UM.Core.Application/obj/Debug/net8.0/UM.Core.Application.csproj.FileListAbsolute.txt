@@ -1,0 +1,16 @@
+/Users/beqa/Desktop/Projects/UserManagementApi/UM.Core.Application/obj/Debug/net8.0/UM.Core.Application.csproj.AssemblyReference.cache
+/Users/beqa/Desktop/Projects/UserManagementApi/UM.Core.Application/obj/Debug/net8.0/UM.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beqa/Desktop/Projects/UserManagementApi/UM.Core.Application/obj/Debug/net8.0/UM.Core.Application.AssemblyInfoInputs.cache
+/Users/beqa/Desktop/Projects/UserManagementApi/UM.Core.Application/obj/Debug/net8.0/UM.Core.Application.AssemblyInfo.cs
+/Users/beqa/Desktop/Projects/UserManagementApi/UM.Core.Application/obj/Debug/net8.0/UM.Core.Application.csproj.CoreCompileInputs.cache
+/Users/beqa/Desktop/Projects/UserManagementApi/UM.Core.Application/obj/Debug/net8.0/UM.Core.Application.sourcelink.json
+/Users/beqa/Desktop/Projects/UserManagementApi/UM.Core.Application/bin/Debug/net8.0/UM.Core.Application.deps.json
+/Users/beqa/Desktop/Projects/UserManagementApi/UM.Core.Application/bin/Debug/net8.0/UM.Core.Application.dll
+/Users/beqa/Desktop/Projects/UserManagementApi/UM.Core.Application/bin/Debug/net8.0/UM.Core.Application.pdb
+/Users/beqa/Desktop/Projects/UserManagementApi/UM.Core.Application/bin/Debug/net8.0/UM.Core.Domain.dll
+/Users/beqa/Desktop/Projects/UserManagementApi/UM.Core.Application/bin/Debug/net8.0/UM.Core.Domain.pdb
+/Users/beqa/Desktop/Projects/UserManagementApi/UM.Core.Application/obj/Debug/net8.0/UM.Core..8F975096.Up2Date
+/Users/beqa/Desktop/Projects/UserManagementApi/UM.Core.Application/obj/Debug/net8.0/UM.Core.Application.dll
+/Users/beqa/Desktop/Projects/UserManagementApi/UM.Core.Application/obj/Debug/net8.0/refint/UM.Core.Application.dll
+/Users/beqa/Desktop/Projects/UserManagementApi/UM.Core.Application/obj/Debug/net8.0/UM.Core.Application.pdb
+/Users/beqa/Desktop/Projects/UserManagementApi/UM.Core.Application/obj/Debug/net8.0/ref/UM.Core.Application.dll

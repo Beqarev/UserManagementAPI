@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/UM.Presentation.WebApi.props" />
+</Project>

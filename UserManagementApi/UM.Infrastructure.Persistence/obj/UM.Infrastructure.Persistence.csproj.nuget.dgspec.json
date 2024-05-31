@@ -1,0 +1,246 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/beqa/Desktop/Projects/UserManagementApi/UM.Infrastructure.Persistence/UM.Infrastructure.Persistence.csproj": {}
+  },
+  "projects": {
+    "/Users/beqa/Desktop/Projects/UserManagementApi/UM.Core.Application/UM.Core.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/beqa/Desktop/Projects/UserManagementApi/UM.Core.Application/UM.Core.Application.csproj",
+        "projectName": "UM.Core.Application",
+        "projectPath": "/Users/beqa/Desktop/Projects/UserManagementApi/UM.Core.Application/UM.Core.Application.csproj",
+        "packagesPath": "/Users/beqa/.nuget/packages/",
+        "outputPath": "/Users/beqa/Desktop/Projects/UserManagementApi/UM.Core.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/beqa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/beqa/Desktop/Projects/UserManagementApi/UM.Core.Domain/UM.Core.Domain.csproj": {
+                "projectPath": "/Users/beqa/Desktop/Projects/UserManagementApi/UM.Core.Domain/UM.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "BCrypt.Net": {
+              "target": "Package",
+              "version": "[0.1.0, )"
+            },
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[8.0.1-dev-00583, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/beqa/Desktop/Projects/UserManagementApi/UM.Core.Domain/UM.Core.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/beqa/Desktop/Projects/UserManagementApi/UM.Core.Domain/UM.Core.Domain.csproj",
+        "projectName": "UM.Core.Domain",
+        "projectPath": "/Users/beqa/Desktop/Projects/UserManagementApi/UM.Core.Domain/UM.Core.Domain.csproj",
+        "packagesPath": "/Users/beqa/.nuget/packages/",
+        "outputPath": "/Users/beqa/Desktop/Projects/UserManagementApi/UM.Core.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/beqa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[8.0.1-dev-00583, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/beqa/Desktop/Projects/UserManagementApi/UM.Infrastructure.Persistence/UM.Infrastructure.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/beqa/Desktop/Projects/UserManagementApi/UM.Infrastructure.Persistence/UM.Infrastructure.Persistence.csproj",
+        "projectName": "UM.Infrastructure.Persistence",
+        "projectPath": "/Users/beqa/Desktop/Projects/UserManagementApi/UM.Infrastructure.Persistence/UM.Infrastructure.Persistence.csproj",
+        "packagesPath": "/Users/beqa/.nuget/packages/",
+        "outputPath": "/Users/beqa/Desktop/Projects/UserManagementApi/UM.Infrastructure.Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/beqa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/beqa/Desktop/Projects/UserManagementApi/UM.Core.Application/UM.Core.Application.csproj": {
+                "projectPath": "/Users/beqa/Desktop/Projects/UserManagementApi/UM.Core.Application/UM.Core.Application.csproj"
+              },
+              "/Users/beqa/Desktop/Projects/UserManagementApi/UM.Core.Domain/UM.Core.Domain.csproj": {
+                "projectPath": "/Users/beqa/Desktop/Projects/UserManagementApi/UM.Core.Domain/UM.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[8.0.1-dev-00583, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
